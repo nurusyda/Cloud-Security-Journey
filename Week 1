@@ -1,0 +1,11 @@
+First Day:
+Morning:
+My plan was to use 3 LLM minimum to make a council by that, I've downloaded:
+- DeepSeek Coder v2 Lite Instruct Q5_K_M from bartowski with 11.04 GB
+- Qwen2.5 Coder 14B Q6_K from qwen with 11.29 GB
+
+After that, my plan was to download an LLM that can argued with me if I am wrong and show me how to do the right thing. That's when I realized I didnt count the LLM calculator based on my VRAM but instead based on VRAM + RAM.
+My first plan was to download Nous-Hermes-2-Mixtral-8x7B-DPO but it was too big -- 33 GB. Gemini 3 Pro was the one that pointed this problem first to me, when other LLM just agreed or suggested it. Then I asked Grok, Claude Sonnet, DeepSeek, and Gemini again which should I get as replacement for that. Three per Four of them agreed to changed it to MythoMax-L2-13B-Q4_K_M but it was also 11 GB.
+That's make me trying to find a new alternative, wheter that means to downgrade my previous Deepseek and Qwen models or delete one of them, or anything. I'm still looking the answer for it.
+
+So first thing that I do is to use the DeepSeek and Qwen2.5 together and see how slow they'd be.
