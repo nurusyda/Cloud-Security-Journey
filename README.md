@@ -1,4 +1,4 @@
-# Cloud Security Learning Journey 🛡️
+# Cloud Security Journey 🛡️
 
 ## About This Repository
 
