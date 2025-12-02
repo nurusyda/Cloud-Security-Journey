@@ -9,3 +9,6 @@ My first plan was to download Nous-Hermes-2-Mixtral-8x7B-DPO but it was too big 
 That's make me trying to find a new alternative, wheter that means to downgrade my previous Deepseek and Qwen models or delete one of them, or anything. I'm still looking the answer for it.
 
 So first thing that I do is to use the DeepSeek and Qwen2.5 together and see how slow they'd be.
+
+Afternoon:
+I don't find playground or add server button, so I watch and read lm studio docs to find ways around it.
