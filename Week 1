@@ -31,3 +31,9 @@ C. If you had wiggle money, you can make your concil with popular AI but you nee
 D. Don't 100% trust AI, always verified. It can be using Leo from brave though if you didn't know where to crosscheck. Then you could visit the website one by one and find what you are looking for.
 E. MCP is the goat now, try to incorporate docker desktop and claude desktop. I've downloaded both of it but not utilizing it enough. I'll try more after this. But perhaps we need to use API Keys for many of services that we want just make sure to calculate your usage first before sign up to it to make a guess how much you'll need to pay at the end of the month.
 
+So there's things that I plan to do after this:
+1. Setup LM Studio with DeepSeek Qwen3 and Qwen3 with each using q4 k_m or q6 k, I haven't decided yet.
+2. Try to see it myself which smarter and given me the best answer.
+3. Decide if I do need Mythomax or not.
+
+After I'd done with LM studio, I'll try to make the AI council using Autogen, Docker Desktop, Claude Desktop, and all others.
