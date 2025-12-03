@@ -12,3 +12,22 @@ So first thing that I do is to use the DeepSeek and Qwen2.5 together and see how
 
 Afternoon:
 I don't find playground or add server button, so I watch and read lm studio docs to find ways around it.
+
+Second Day:
+Morning:
+
+Result from yesterday:
+Eventhough both of DeepSeek and Qwen2.5 that I had 11-12gb, they didn't make my PC slow. They do shown take up maximum space in my RAM and VRAM but other than the documentation, everything went fine. But for precation I need to follow the rules and only use each of them one by one. Actually I dont know it can be considered using DeepSeek and Qwen2.5 together because until today I don't know how to use the server together. So it's just in the chat room back and fort changing models.
+
+1. I realized that the newest LM studio indeed didn't have playground or add server in it. So I need to tinker around put two or more models into one server and run it through Powershell.
+2. I found that I don't need to use LM studio at all to make AI council, I can use api keys to do it and use https://github.com/JamesANZ/cross-llm-mcp with that we can access all of our paid ai api keys from claude desktop, then we use https://microsoft.github.io/autogen/stable//index.html to manage the discussion between them.
+3. I also calculate how much money each month that I need to spend for medium tier in each AI. With my monthly usage aroun 500k tokens permonth it's less than 20 dollars a month.
+4. About LM studio, I realized that what I had, Qwen2.5 actually older version compared to Qwen3 so I do plan to upgrade it but I don't decide which specific model will I use.
+
+Knowledge that I gather until now about this 'Making AI council':
+A. You have to know your cap, wheter it is VRAM max capabilities or token usage monthly.
+B. You have to make sure total llm that you want to use is less than your VRAM. It can be multiple models one time or one heavy model just make sure it didn't exceed your VRAM.
+C. If you had wiggle money, you can make your concil with popular AI but you need to tinker it. I've not trying this hands on this morning. I just gather my thought first. Perhaps after this writing I'll try that out.
+D. Don't 100% trust AI, always verified. It can be using Leo from brave though if you didn't know where to crosscheck. Then you could visit the website one by one and find what you are looking for.
+E. MCP is the goat now, try to incorporate docker desktop and claude desktop. I've downloaded both of it but not utilizing it enough. I'll try more after this. But perhaps we need to use API Keys for many of services that we want just make sure to calculate your usage first before sign up to it to make a guess how much you'll need to pay at the end of the month.
+
