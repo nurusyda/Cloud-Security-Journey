@@ -49,4 +49,4 @@ Morning:
 UPDATE! LLM didn't as dumb as I think yesterday. I just didn't know how to use it properly. I didn't use it very much though, still using it for simple question. I found that I shouldn't integrate them first with duckduckgo mcp if I myself didn't know what just going on lol.
 
 Afternoon:
-I made the code using claude as the base idea, then enhanced it with grok [see YOLO-grok](YOLO-grok.py) and gemini.
+I made the code using claude as the base idea, then enhanced it with grok [see YOLO-grok](YOLO-grok.py) and gemini [see YOLO-gemini](YOLO-gemini.py). The gemini resulted from the grok that I asked it to changed a little bit here and there without changing main component from grok. And it works!!!!!!!!!!!!! I couldn't stress much of it but after searching and reading I got what I planned at first! Perhaps I'll still do some changed here and there going on. But for now it's enough for trial. Perhaps next week, I'm planning to setup AI council using API keys.
