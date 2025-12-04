@@ -50,3 +50,5 @@ UPDATE! LLM didn't as dumb as I think yesterday. I just didn't know how to use i
 
 Afternoon:
 I made the code using claude as the base idea, then enhanced it with grok [see YOLO-grok](YOLO-grok.py) and gemini [see YOLO-gemini](YOLO-gemini.py). The gemini resulted from the grok that I asked it to changed a little bit here and there without changing main component from grok. And it works!!!!!!!!!!!!! I couldn't stress much of it but after searching and reading I got what I planned at first! Perhaps I'll still do some changed here and there going on. But for now it's enough for trial. Perhaps next week, I'm planning to setup AI council using API keys.
+
+My AI council still has many flaw though, I couldn't copy and paste many from it because it can misread it as something to execute while it isn't.
