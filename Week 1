@@ -37,3 +37,10 @@ So there's things that I plan to do after this:
 3. Decide if I do need Mythomax or not.
 
 After I'd done with LM studio, I'll try to make the AI council using Autogen, Docker Desktop, Claude Desktop, and all others.
+
+Afternoon:
+I make up my mind to make hybrid council but the easy way, only using terminal and all the ai api keys, and not using the advanced I found earlier today. Because what I want to have is a council that I can also be part of it not just automatic council.
+After make the plan, I setup the LM studio and download deepseek-r1-0528-qwen3-8b which I found it's kinda dumb. Perhaps its because I expect it works like a website DeepSeek. It's not that dumb = it didnt understand what I am saying but, dumb because the quality of result that I hoped isn't the same as the output that it gave me. So that make me had another conclusion:
+I should try to download as much as LLM that I think it's good and compared it myself.
+So first, I need to understand each one of their difference. I knew that I only had my eyes on Qwen, DeepSeek, and perhaps mythromax and mitral.
+
