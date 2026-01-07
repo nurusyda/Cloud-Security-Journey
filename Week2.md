@@ -1,0 +1,6 @@
+01/07/26
+I used the codes I think closer to the intended result that I am hoping for, using codes from DeepSeek, Gemini, and Grok. I found Kimi and Claude need sophisticated prompt engineering that I don't have so my result using those two kinda useless. The ones that giving me great answer without having too much to think about is grok, followed by gemini, and then deepseek after polishing here and there.
+I choose the types of codes that I think suitable for this project. Hence now I understanding how to use each API Keys from each AIs.
+I just learn that we need to revoke the API Keys for every 90 days for middle case (not high or low risk). Especially if our engineer just leaves the company. This is what I learn yesterday about Non Human Identification problem!!!
+So I just found out about Google Studio AI and how cool they are! And it's kinda disturbed me in a good way? Because I'm rethinking what can I do using that knowledge and can I make a profit using it? And should I like build something that I can sell? I still don't know what I can do and can't. I need to explore about it more to see the potential of it.
+But for now I need to focus on my project, and see what it can do. But at the same time, the reason I build this council is to get different perspective while I am working on something because I know that one insight it not reliable.
