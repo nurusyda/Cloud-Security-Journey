@@ -4,3 +4,8 @@ I choose the types of codes that I think suitable for this project. Hence now I 
 I just learn that we need to revoke the API Keys for every 90 days for middle case (not high or low risk). Especially if our engineer just leaves the company. This is what I learn yesterday about Non Human Identification problem!!!
 So I just found out about Google Studio AI and how cool they are! And it's kinda disturbed me in a good way? Because I'm rethinking what can I do using that knowledge and can I make a profit using it? And should I like build something that I can sell? I still don't know what I can do and can't. I need to explore about it more to see the potential of it.
 But for now I need to focus on my project, and see what it can do. But at the same time, the reason I build this council is to get different perspective while I am working on something because I know that one insight it not reliable.
+01/08/26
+so using
+python -m venv venv
+source venv/bin/activate    # On Windows: venv\Scripts\activate
+kinda important :)
