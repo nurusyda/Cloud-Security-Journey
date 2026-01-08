@@ -9,3 +9,5 @@ so using
 python -m venv venv
 source venv/bin/activate    # On Windows: venv\Scripts\activate
 kinda important :)
+missing .env keys:)
+So my project got problem because 1. I need to setup billing for gemini ai, before I can use their free tier. 2. Idk what's happend actually with deepseek. I try to check it but there's no problem.
